@@ -1,1 +1,1 @@
-lsit of directroy
+long list of current directory contents
