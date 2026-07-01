@@ -1,2 +1,1 @@
-directory contents
-home
+lsit of directroy
